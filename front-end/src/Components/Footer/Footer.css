@@ -52,3 +52,137 @@
   height: 3px;
   background: #c7c7c7;
 }
+@media (max-width: 1024px) {
+  .footer {
+    padding: 0px 80px;
+  }
+  .footer-logo p {
+    font-size: 40px;
+  }
+  .footer-links {
+    gap: 30px;
+    font-size: 18px;
+  }
+  .footer-social-icon {
+    gap: 10px;
+  }
+  .footer-icons-container {
+    padding: 5px;
+    padding-bottom: 3px;
+  }
+  .footer-copyright {
+    gap: 20px;
+    font-size: 18px;
+  }
+}
+@media (max-width: 768px) {
+  .footer {
+    padding: 0px 50px;
+  }
+  .footer-logo p {
+    font-size: 35px;
+  }
+  .footer-links {
+    gap: 20px;
+    font-size: 16px;
+  }
+  .footer-social-icon {
+    gap: 10px;
+  }
+  .footer-icons-container {
+    padding: 5px;
+    padding-bottom: 3px;
+  }
+  .footer-social-icon {
+    gap: 10px;
+  }
+  .footer-icons-container {
+    padding: 5px;
+    padding-bottom: 3px;
+  }
+  .footer-links {
+    gap: 20px;
+    font-size: 16px;
+  }
+  .footer-social-icon {
+    gap: 10px;
+  }
+  .footer-icons-container {
+    padding: 5px;
+    padding-bottom: 3px;
+  }
+  .footer-links {
+    gap: 20px;
+    font-size: 16px;
+  }
+  .footer-social-icon {
+    gap: 10px;
+  }
+  .footer-icons-container {
+    padding: 5px;
+    padding-bottom: 3px;
+  }
+  .footer-links {
+    gap: 20px;
+    font-size: 16px;
+  }
+  .footer-social-icon {
+    gap: 10px;
+  }
+  .footer-icons-container {
+    padding: 5px;
+    padding-bottom: 3px;
+  }
+  .footer-links {
+    gap: 20px;
+    font-size: 16px;
+  }
+  .footer-social-icon {
+    gap: 10px;
+  }
+  .footer-icons-container {
+    padding: 5px;
+    padding-bottom: 3px;
+  }
+  .footer-links {
+    gap: 20px;
+    font-size: 16px;
+  }
+  .footer-social-icon {
+    gap: 10px;
+  }
+  .footer-icons-container {
+    padding: 5px;
+    padding-bottom: 3px;
+  }
+  .footer-links {
+    gap: 20px;
+    font-size: 16px;
+  }
+  .footer-social-icon {
+    gap: 10px;
+  }
+  .footer-icons-container {
+    padding: 5px;
+    padding-bottom: 3px;
+  }
+}
+@media (max-width: 500px) {
+  .footer {
+    padding: 0px 30px;
+  }
+  .footer-logo p {
+    font-size: 30px;
+  }
+  .footer-links {
+    gap: 15px;
+    font-size: 14px;
+  }
+  .footer-social-icon {
+    gap: 5px;
+  }
+  .footer-icons-container {
+    padding: 3px;
+    padding-bottom: 1px;
+  }
+}
